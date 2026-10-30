@@ -4,25 +4,42 @@ import asyncio
 from typing import List
 
 from src.fetchers.hackernews_fetcher import HackerNewsFetcher
+from src.fetchers.github_trending_fetcher import GitHubTrendingFetcher
 from src.fetchers.rss_fetcher import RSSFetcher
 from src.models.article import Article
 from src.storage.markdown_storage import MarkdownStorage
-
+from src.transformers.article_transformer import ArticleTransformer
+from src.fetchers.base_fetcher import BaseFetcher
+from src.transformers.article_transformer import ArticleTransformer
+from src.storage.base_storage import ArticleStorage
 
 class FetchOrchestrator:
     """
-    Orchestrates fetching from multiple sources.
-
-    Coordinates HackerNews, RSS, and other fetchers.
+    Orchestrates multiple fetchers.
+    
+    Follows Dependency Inversion Principle:
+    - Depends on abstractions (BaseFetcher, ArticleStorage)
+    - Dependencies injected via constructor
     """
-
-    def __init__(self):
-        """Initialize orchestrator with all fetchers."""
-        self.storage = MarkdownStorage()
-        self.fetchers = []
-
-        # Add fetchers
-        self._setup_fetchers()
+    
+    def __init__(
+        self,
+        fetchers: List[BaseFetcher],
+        storage: ArticleStorage,
+        transformer: ArticleTransformer
+    ):
+        """
+        Initialize with injected dependencies.
+        
+        Args:
+            fetchers: List of fetcher instances
+            storage: Storage implementation
+            transformer: Transformer instance
+        """
+        self.fetchers = fetchers
+        self.storage = storage
+        self.transformer = transformer
+        
 
     def _setup_fetchers(self):
         """Setup all news fetchers."""
@@ -38,44 +55,15 @@ class FetchOrchestrator:
             self.fetchers.append((name, RSSFetcher(url)))
 
     async def fetch_all(self) -> List[Article]:
-        """
-        Fetch from all sources concurrently.
-
-        Returns:
-            Combined list of all articles
-        """
-        print("\n🚀 Starting fetch from all sources...")
-        print(f"   Sources: {len(self.fetchers)}")
-
-        # Create tasks for all fetchers
-        tasks = []
-        for name, fetcher in self.fetchers:
-            if isinstance(fetcher, HackerNewsFetcher):
-                task = fetcher.fetch(limit=30)
-            else:
-                task = fetcher.fetch()
-            tasks.append(task)
-
-        # Fetch all concurrently
-        results = await asyncio.gather(*tasks, return_exceptions=True)
-
-        # Combine articles
+        """Fetch from all sources."""
         all_articles = []
-        for (name, _), result in zip(self.fetchers, results):
-            if isinstance(result, Exception):
-                print(f"⚠️  {name} failed: {result}")
-            else:
-                print(f"✅ {name}: {len(result)} articles")
-                all_articles.extend(result)
-
-        # Save combined results
-        if all_articles:
-            self.storage.save(all_articles, "all_articles.md")
-
-        print(
-            f"\n🎉 Total: {len(all_articles)} articles from {len(self.fetchers)} sources"
-        )
+        
+        for fetcher in self.fetchers:
+            articles = await fetcher.fetch_and_save()
+            all_articles.extend(articles)
+        
         return all_articles
+
 
 
 # Test it

@@ -2,31 +2,43 @@
 
 import asyncio
 from datetime import datetime
-from typing import List
+from typing import List,Optional
 
 import feedparser
 from dateutil import parser as date_parser
 
 from src.models.article import Article
 from src.storage.markdown_storage import MarkdownStorage
+from src.fetchers.base_fetcher import BaseFetcher
+from src.storage.base_storage import ArticleStorage
+from src.transformers.article_transformer import ArticleTransformer
 
 
-class RSSFetcher:
+class RSSFetcher(BaseFetcher):
     """
     Fetches articles from RSS feeds.
 
     Uses feedparser library for RSS parsing.
     """
-
-    def __init__(self, feed_url: str):
-        """
-        Initialize RSS fetcher.
-
-        Args:
-            feed_url: URL of RSS feed
-        """
+    def __init__(
+        self,
+        feed_url: str,
+        transformer: Optional[ArticleTransformer] = None,
+        storage: Optional[ArticleStorage] = None,
+    ):
+        super().__init__(transformer, storage)
         self.feed_url = feed_url
-        self.storage = MarkdownStorage()
+
+
+
+    async def fetch_articles(self) -> List[Article]:
+        """Fetch from RSS feed."""
+        feed = feedparser.parse(self.feed_url)
+        return self.transformer.transform_rss(feed.entries)
+    
+    def get_source_name(self) -> str:
+        """Return source name."""
+        return "rss"
 
     async def fetch(self) -> List[Article]:
         """
@@ -37,21 +49,7 @@ class RSSFetcher:
         """
         print(f"📰 Fetching from RSS: {self.feed_url}")
 
-        # feedparser is sync, run in executor
-        loop = asyncio.get_event_loop()
-        feed = await loop.run_in_executor(
-            None, feedparser.parse, self.feed_url  # Default executor
-        )
-
-        # Parse entries
-        articles = []
-        for entry in feed.entries:
-            article = self._parse_entry(entry)
-            if article:
-                articles.append(article)
-
-        print(f"✅ Fetched {len(articles)} RSS articles")
-        return articles
+        return await self.fetch_articles()
 
     def _parse_entry(self, entry) -> Article:
         """Parse RSS entry to Article."""
@@ -94,7 +92,7 @@ class RSSFetcher:
 
     async def fetch_and_save(self) -> List[Article]:
         """Fetch and save articles."""
-        articles = await self.fetch()
+        articles = await self.fetch_articles()
 
         if articles:
             # Extract feed name from URL
