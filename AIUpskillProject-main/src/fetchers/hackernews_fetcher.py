@@ -14,6 +14,7 @@ import logging
 
 logger = logging.getLogger(__name__)
 
+
 class HackerNewsFetcher(BaseFetcher):
     """
     Fetches top stories from HackerNews API.
@@ -23,15 +24,17 @@ class HackerNewsFetcher(BaseFetcher):
 
     BASE_URL = "https://hacker-news.firebaseio.com/v0"
 
-    def __init__(self,transformer: Optional[ArticleTransformer] = None,
+    def __init__(
+        self,
+        transformer: Optional[ArticleTransformer] = None,
         storage: Optional[ArticleStorage] = None,
-        limit: int = 30,rate_limiter=None):
+        limit: int = 30,
+        rate_limiter=None,
+    ):
 
         super().__init__(transformer, storage)
         self.limit = limit
         self.rate_limiter = rate_limiter or SemaphoreStrategy(10)
-        # super().__init__(transformer,storage,rate_limiter, source_name="hackernews")
-        # self.limit=limit
 
     async def fetch_articles(self) -> List[Article]:
         """Fetch from HackerNews API."""
@@ -39,20 +42,21 @@ class HackerNewsFetcher(BaseFetcher):
         try:
 
             story_ids = await self._fetch_top_story_ids()
-            items = await asyncio.gather(*(self._fetch_story(i) for i in story_ids[: self.limit]))
+            items = await asyncio.gather(
+                *(self._fetch_story(i) for i in story_ids[: self.limit])
+            )
             articles = self.transformer.transform_hackernews(items)
             print(f"Fetched {len(articles)} HackerNews stories")
             return articles
         except Exception as e:
-                    logger.error(f"Fetch failed: {e}")
-                    return []
+            logger.error(f"Fetch failed: {e}")
+            return []
 
-    
     def get_source_name(self) -> str:
         """Return source name."""
         return "hackernews"
 
-    async def fetch(self,limit: Optional[int] = None) -> List[Article]:
+    async def fetch(self, limit: Optional[int] = None) -> List[Article]:
         """
         Fetch top stories from HackerNews.
 
@@ -67,7 +71,6 @@ class HackerNewsFetcher(BaseFetcher):
 
         print(f"📰 Fetching {limit or self.limit} stories from HackerNews...")
         return await self.fetch_articles()
-
 
     async def fetch_and_save(self, limit: int = 30) -> List[Article]:
         """Fetch articles and save to markdown."""

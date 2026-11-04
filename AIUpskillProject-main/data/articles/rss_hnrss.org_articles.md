@@ -1,284 +1,238 @@
-# News Articles
+# Articles - 2026-11-04 09:11
 
-**Generated:** 2026-09-25 16:42:14
+## Arrows to arrows, categories to queries (2025)
 
-**Total Articles:** 20
+**Source:** rss
+**URL:** https://reasonablypolymorphic.com/blog/arrows-to-arrows/
+**Published:** 2026-11-04 03:11:27+00:00
+**Score:** 0
+
+<p>Article URL: <a href="https://reasonablypolymorphic.com/blog/arrows-to-arrows/">https://reasonablypolymorphic.com/blog/arrows-to-arrows/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.c
 
 ---
 
-## Uproar in France over award-winning author accused of using AI
+## Giant canyon on Mars is still tectonically active
 
-**Source:** rss  
-**URL:** https://www.bbc.com/news/articles/ck7v4y45893go  
-**Published:** 2026-09-25 10:48  
+**Source:** rss
+**URL:** https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today
+**Published:** 2026-11-04 01:40:42+00:00
 **Score:** 0
 
-Article URL: https://www.bbc.com/news/articles/ck7v4y45893go
-Comments URL: https://news.ycombinator.com/item?id=49842707
-Points: 7
-# Comments: 1
+<p>Article URL: <a href="https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today">https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today</a></p>
+
 
 ---
 
-## The Mafia may be keeping fentanyl out of Italy
+## C++26 Disapproved
 
-**Source:** rss  
-**URL:** https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy  
-**Published:** 2026-09-25 10:20  
+**Source:** rss
+**URL:** https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/
+**Published:** 2026-11-04 00:33:22+00:00
 **Score:** 0
 
-Article URL: https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy
-Comments URL: https://news.ycombinator.com/item?id=49842487
-Points: 15
-# Comments: 2
+<p>Article URL: <a href="https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/">https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/</a></p>
+<p>Comment
 
 ---
 
-## Oracle on the hook to pay data centre investors even if site has no electricity
+## The Internals of PostgreSQL
 
-**Source:** rss  
-**URL:** https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016  
-**Published:** 2026-09-25 10:19  
+**Source:** rss
+**URL:** https://www.interdb.jp/pg/index.html
+**Published:** 2026-11-03 21:51:06+00:00
 **Score:** 0
 
-Article URL: https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016
-Comments URL: https://news.ycombinator.com/item?id=49842483
-Points: 15
-# Comments: 5
+<p>Article URL: <a href="https://www.interdb.jp/pg/index.html">https://www.interdb.jp/pg/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358702">https://news.ycombi
 
 ---
 
-## Ink and Switch Interactive Homepage
+## The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer
 
-**Source:** rss  
-**URL:** https://www.inkandswitch.com/  
-**Published:** 2026-09-25 09:50  
+**Source:** rss
+**URL:** https://arxiv.org/abs/2605.29713
+**Published:** 2026-11-03 21:40:53+00:00
 **Score:** 0
 
-Article URL: https://www.inkandswitch.com/
-Comments URL: https://news.ycombinator.com/item?id=49842270
-Points: 30
-# Comments: 3
+<p>Article URL: <a href="https://arxiv.org/abs/2605.29713">https://arxiv.org/abs/2605.29713</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358582">https://news.ycombinator.co
 
 ---
 
-## Tech Needs Humanists More
+## Safari introduces Adaptive Dark Mode in 27.3
 
-**Source:** rss  
-**URL:** https://passo.uno/tech-needs-humanists-more-than-ever/  
-**Published:** 2026-09-25 09:31  
+**Source:** rss
+**URL:** https://webkit.org/blog/18541/introducing-adaptive-dark-mode/
+**Published:** 2026-11-03 21:39:05+00:00
 **Score:** 0
 
-Article URL: https://passo.uno/tech-needs-humanists-more-than-ever/
-Comments URL: https://news.ycombinator.com/item?id=49842127
-Points: 62
-# Comments: 73
+<p>Article URL: <a href="https://webkit.org/blog/18541/introducing-adaptive-dark-mode/">https://webkit.org/blog/18541/introducing-adaptive-dark-mode/</a></p>
+<p>Comments URL: <a href="https://news.yco
 
 ---
 
-## Special Projects (2016)
+## Show HN: Uncracked City, detective game where you question LLM suspects that lie
 
-**Source:** rss  
-**URL:** https://openai.com/index/special-projects/  
-**Published:** 2026-09-25 08:55  
+**Source:** rss
+**URL:** https://uncracked.city
+**Published:** 2026-11-03 21:20:03+00:00
 **Score:** 0
 
-Article URL: https://openai.com/index/special-projects/
-Comments URL: https://news.ycombinator.com/item?id=49841893
-Points: 24
-# Comments: 6
+<p>To give you some context on the project. I'm a solo founder and I use AI heavily in my work. The idea came from wanting players to discover cities. Each city has its own history, so every case is s
 
 ---
 
-## Dutch governments builds alternative for Microsoft based on NixOS
+## Show HN: Kairos – Open-source risk and fraud decisioning platform
 
-**Source:** rss  
-**URL:** https://www.dawo.community/en/  
-**Published:** 2026-09-25 08:06  
+**Source:** rss
+**URL:** https://github.com/finic-ai/kairos
+**Published:** 2026-11-03 21:16:48+00:00
 **Score:** 0
 
-Article URL: https://www.dawo.community/en/
-Comments URL: https://news.ycombinator.com/item?id=49841563
-Points: 248
-# Comments: 101
+<p>Hey HN, Ayan here from Finic. We’re launching Kairos, an open source alternative to Sift, Sardine, and other real-time fraud decisioning platforms. Kairos addresses two of the biggest problems faci
 
 ---
 
-## Amiga Screens: A Primer
+## The Pnyx and the Agora (2016)
 
-**Source:** rss  
-**URL:** https://www.datagubbe.se/amscr/  
-**Published:** 2026-09-25 07:31  
+**Source:** rss
+**URL:** https://www.readingdesign.org/the-pnyx-and-the-agora
+**Published:** 2026-11-03 20:49:11+00:00
 **Score:** 0
 
-Article URL: https://www.datagubbe.se/amscr/
-Comments URL: https://news.ycombinator.com/item?id=49841309
-Points: 9
-# Comments: 1
+<p>Article URL: <a href="https://www.readingdesign.org/the-pnyx-and-the-agora">https://www.readingdesign.org/the-pnyx-and-the-agora</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?
 
 ---
 
-## Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini
+## Pratt parsing is a black box
 
-**Source:** rss  
-**URL:** https://nyaa.sh/reviews/mac-mini-m6-emulation  
-**Published:** 2026-09-25 07:27  
+**Source:** rss
+**URL:** https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/
+**Published:** 2026-11-03 20:07:41+00:00
 **Score:** 0
 
-Article URL: https://nyaa.sh/reviews/mac-mini-m6-emulation
-Comments URL: https://news.ycombinator.com/item?id=49841285
-Points: 76
-# Comments: 26
+<p>Article URL: <a href="https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/">https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/</a></p>
+<p>Comments URL: <a 
 
 ---
 
-## CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2
+## Introduction to Programming in ATS
 
-**Source:** rss  
-**URL:** https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2  
-**Published:** 2026-09-25 07:03  
+**Source:** rss
+**URL:** https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html
+**Published:** 2026-11-03 19:25:18+00:00
 **Score:** 0
 
-Article URL: https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2
-Comments URL: https://news.ycombinator.com/it
+<p>Article URL: <a href="https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html">https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html</a></p>
+<p>Comments URL: <a hr
 
 ---
 
-## What About Rails?
+## How I use AI (Oct 2026)
 
-**Source:** rss  
-**URL:** https://jardo.dev/what-about-rails  
-**Published:** 2026-09-25 02:50  
+**Source:** rss
+**URL:** https://ben.stolovitz.com/posts/how-use-ai-oct-2026/
+**Published:** 2026-11-03 18:11:11+00:00
 **Score:** 0
 
-Article URL: https://jardo.dev/what-about-rails
-Comments URL: https://news.ycombinator.com/item?id=49839664
-Points: 69
-# Comments: 29
+<p>Article URL: <a href="https://ben.stolovitz.com/posts/how-use-ai-oct-2026/">https://ben.stolovitz.com/posts/how-use-ai-oct-2026/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?
 
 ---
 
-## The Board Game of the Alpha Nerds (2014)
+## Qwen 3.8 27B on my laptop can interpret model weights, too
 
-**Source:** rss  
-**URL:** https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/  
-**Published:** 2026-09-24 20:53  
+**Source:** rss
+**URL:** https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/
+**Published:** 2026-11-03 17:40:00+00:00
 **Score:** 0
 
-Article URL: https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/
-Comments URL: https://news.ycombinator.com/item?id=49836590
-Points: 90
-# Comments: 48
+<p>Article URL: <a href="https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/">https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/</a></p>
+<p>Comments URL: <a href
 
 ---
 
-## Opus 5.5 is good at explainer videos
+## Postman silently auto-installs AI plugins and attempts to share all API data
 
-**Source:** rss  
-**URL:** https://launchvideo.io  
-**Published:** 2026-09-24 20:28  
+**Source:** rss
+**URL:** https://github.com/postmanlabs/postman-app-support/issues/14370
+**Published:** 2026-11-03 17:22:37+00:00
 **Score:** 0
 
-Article URL: https://launchvideo.io
-Comments URL: https://news.ycombinator.com/item?id=49836374
-Points: 282
-# Comments: 141
+<p>Article URL: <a href="https://github.com/postmanlabs/postman-app-support/issues/14370">https://github.com/postmanlabs/postman-app-support/issues/14370</a></p>
+<p>Comments URL: <a href="https://news
 
 ---
 
-## Sourcehut account takeover via build logs (XSS in ansi2html)
+## Ashby (YC W19) Is Hiring EMs
 
-**Source:** rss  
-**URL:** https://blog.arusekk.pl/posts/srht-account-takeover/  
-**Published:** 2026-09-24 19:54  
+**Source:** rss
+**URL:** https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn
+**Published:** 2026-11-03 17:00:53+00:00
 **Score:** 0
 
-Article URL: https://blog.arusekk.pl/posts/srht-account-takeover/
-Comments URL: https://news.ycombinator.com/item?id=49835996
-Points: 122
-# Comments: 23
+<p>Article URL: <a href="https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&amp;utm_source=hn">https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd2
 
 ---
 
-## Using LLMs to trace alchemical knowledge and decode 17th century letters
+## Stringman, an $800 open-source room scale gripper robot
 
-**Source:** rss  
-**URL:** https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical  
-**Published:** 2026-09-24 19:14  
+**Source:** rss
+**URL:** https://neufangled.com/
+**Published:** 2026-11-03 16:47:29+00:00
 **Score:** 0
 
-Article URL: https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical
-Comments URL: https://news.ycombinator.com/item?id=49835531
-Points: 136
-# Comments: 29
+<p>Article URL: <a href="https://neufangled.com/">https://neufangled.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50354358">https://news.ycombinator.com/item?id=50354358
 
 ---
 
-## Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design
+## Mac at any scale
 
-**Source:** rss  
-**URL:** https://github.com/devdotfast/whiteboard  
-**Published:** 2026-09-24 17:21  
+**Source:** rss
+**URL:** https://namespace.so/blog/mac-at-any-scale
+**Published:** 2026-11-03 14:53:42+00:00
 **Score:** 0
 
-Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard (https://whiteboard.dev.fast/), an open-source desktop app where humans and agents can architect software together in a common works
+<p>Article URL: <a href="https://namespace.so/blog/mac-at-any-scale">https://namespace.so/blog/mac-at-any-scale</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50352758">https:/
 
 ---
 
-## Why is the liver so weirdly regenerative?
+## There is no posttraining data commons
 
-**Source:** rss  
-**URL:** https://dynomight.substack.com/p/liver  
-**Published:** 2026-09-24 16:23  
+**Source:** rss
+**URL:** https://openathena.ai/blog/there-is-no-posttraining-data-commons/
+**Published:** 2026-11-03 14:45:47+00:00
 **Score:** 0
 
-Article URL: https://dynomight.substack.com/p/liver
-Comments URL: https://news.ycombinator.com/item?id=49832938
-Points: 422
-# Comments: 216
+<p>Article URL: <a href="https://openathena.ai/blog/there-is-no-posttraining-data-commons/">https://openathena.ai/blog/there-is-no-posttraining-data-commons/</a></p>
+<p>Comments URL: <a href="https://
 
 ---
 
-## F-Droid 2.0
+## Microsoft fixes a Windows 11 annoyance as PC revenue declines
 
-**Source:** rss  
-**URL:** https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html  
-**Published:** 2026-09-24 15:26  
+**Source:** rss
+**URL:** https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/
+**Published:** 2026-11-03 12:58:43+00:00
 **Score:** 0
 
-Article URL: https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html
-Comments URL: https://news.ycombinator.com/item?id=49831968
-Points: 1263
-# Comments: 363
+<p>Article URL: <a href="https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/">https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-clic
 
 ---
 
-## Google’s Project Suncatcher to put ML infrastructure in space
+## Why Clip Art Was Everywhere Until It Wasn't [video]
 
-**Source:** rss  
-**URL:** https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/  
-**Published:** 2026-09-24 13:53  
+**Source:** rss
+**URL:** https://www.youtube.com/watch?v=XfLlpxE6AYM
+**Published:** 2026-11-03 12:40:06+00:00
 **Score:** 0
 
-https://www.nytimes.com/2026/09/24/technology/google-suncatc... (https://archive.ph/BGFnP)
-
-Comments URL: https://news.ycombinator.com/item?id=49830606
-Points: 190
-# Comments: 384
-
----
-
-## Two-tier encryption in the UK
-
-**Source:** rss  
-**URL:** https://macanorak.com/two-tier-encryption-in-the-uk/  
-**Published:** 2026-09-24 10:39  
-**Score:** 0
-
-Article URL: https://macanorak.com/two-tier-encryption-in-the-uk/
-Comments URL: https://news.ycombinator.com/item?id=49828731
-Points: 464
-# Comments: 409
+<p>Article URL: <a href="https://www.youtube.com/watch?v=XfLlpxE6AYM">https://www.youtube.com/watch?v=XfLlpxE6AYM</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50351298">https
 
 ---
 

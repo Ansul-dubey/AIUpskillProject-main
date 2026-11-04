@@ -13,24 +13,25 @@ from src.fetchers.base_fetcher import BaseFetcher
 from src.transformers.article_transformer import ArticleTransformer
 from src.storage.base_storage import ArticleStorage
 
+
 class FetchOrchestrator:
     """
     Orchestrates multiple fetchers.
-    
+
     Follows Dependency Inversion Principle:
     - Depends on abstractions (BaseFetcher, ArticleStorage)
     - Dependencies injected via constructor
     """
-    
+
     def __init__(
         self,
         fetchers: List[BaseFetcher],
         storage: ArticleStorage,
-        transformer: ArticleTransformer
+        transformer: ArticleTransformer,
     ):
         """
         Initialize with injected dependencies.
-        
+
         Args:
             fetchers: List of fetcher instances
             storage: Storage implementation
@@ -39,31 +40,22 @@ class FetchOrchestrator:
         self.fetchers = fetchers
         self.storage = storage
         self.transformer = transformer
-        
 
-    def _setup_fetchers(self):
-        """Setup all news fetchers."""
-        # HackerNews
-        self.fetchers.append(("HackerNews", HackerNewsFetcher()))
-
-        # RSS feeds
-        rss_feeds = [
-            ("HN RSS", "https://hnrss.org/frontpage"),
-        ]
-
-        for name, url in rss_feeds:
-            self.fetchers.append((name, RSSFetcher(url)))
 
     async def fetch_all(self) -> List[Article]:
         """Fetch from all sources."""
         all_articles = []
-        
+
         for fetcher in self.fetchers:
             articles = await fetcher.fetch_and_save()
             all_articles.extend(articles)
-        
-        return all_articles
 
+        if all_articles:
+            self.storage.save(all_articles, "all_articles.md")
+
+        print(f"\nTotal: {len(all_articles)} articles")
+
+        return all_articles
 
 
 # Test it

@@ -1,79 +1,46 @@
-# Articles - 2026-10-30 20:04
+# Articles - 2026-11-04 10:15
 
 ## thedotmack/claude-mem
 
 **Source:** github_trending
 **URL:** https://github.com/thedotmack/claude-mem
-**Published:** 2026-10-30 20:04:44.705221
+**Published:** 2026-11-04 10:15:23.858526
 **Score:** 0
 
-Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More (⭐ 1,145 stars today)
+Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More (⭐ 1,139 stars today)
 
 ---
 
-## milind-soni/OpenMausBot
+## vercel-labs/agent-desktop
 
 **Source:** github_trending
-**URL:** https://github.com/milind-soni/OpenMausBot
-**Published:** 2026-10-30 20:04:44.705512
+**URL:** https://github.com/vercel-labs/agent-desktop
+**Published:** 2026-11-04 10:15:23.859006
 **Score:** 0
 
-Open-source Grok Bot alternative with a virtual machine that bots can use (⭐ 899 stars today)
+Computer use CLI for AI agents (⭐ 3,791 stars today)
 
 ---
 
-## pbakaus/impeccable
+## max-sixty/worktrunk
 
 **Source:** github_trending
-**URL:** https://github.com/pbakaus/impeccable
-**Published:** 2026-10-30 20:04:44.705741
+**URL:** https://github.com/max-sixty/worktrunk
+**Published:** 2026-11-04 10:15:23.859413
 **Score:** 0
 
-The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. (⭐ 2,299 stars today)
+Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (⭐ 438 stars today)
 
 ---
 
-## CopilotKit/OpenBot
+## JustVugg/colibri
 
 **Source:** github_trending
-**URL:** https://github.com/CopilotKit/OpenBot
-**Published:** 2026-10-30 20:04:44.705958
+**URL:** https://github.com/JustVugg/colibri
+**Published:** 2026-11-04 10:15:23.859812
 **Score:** 0
 
-Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. (⭐ 707 stars today)
-
----
-
-## Renhuai123/ziwei-doushu
-
-**Source:** github_trending
-**URL:** https://github.com/Renhuai123/ziwei-doushu
-**Published:** 2026-10-30 20:04:44.706175
-**Score:** 0
-
-紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 (⭐ 1,146 stars today)
-
----
-
-## expo/skills
-
-**Source:** github_trending
-**URL:** https://github.com/expo/skills
-**Published:** 2026-10-30 20:04:44.706384
-**Score:** 0
-
-A collection of AI agent skills for working with Expo projects and Expo Application Services (⭐ 233 stars today)
-
----
-
-## macro-inc/macro
-
-**Source:** github_trending
-**URL:** https://github.com/macro-inc/macro
-**Published:** 2026-10-30 20:04:44.706593
-**Score:** 0
-
-Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. (⭐ 379 stars today)
+A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own. (⭐ 802 stars today)
 
 ---
 
@@ -81,87 +48,98 @@ Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,
 
 **Source:** github_trending
 **URL:** https://github.com/mattpocock/skills
-**Published:** 2026-10-30 20:04:44.706858
+**Published:** 2026-11-04 10:15:23.860322
 **Score:** 0
 
-Skills for Real Engineers. Straight from my .agents directory. (⭐ 882 stars today)
+Skills for Real Engineers. Straight from my .agents directory. (⭐ 1,164 stars today)
 
 ---
 
-## pingdotgg/t3code
+## p-e-w/heretic
 
 **Source:** github_trending
-**URL:** https://github.com/pingdotgg/t3code
-**Published:** 2026-10-30 20:04:44.707102
+**URL:** https://github.com/p-e-w/heretic
+**Published:** 2026-11-04 10:15:23.860713
 **Score:** 0
 
- (⭐ 920 stars today)
+Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more (⭐ 701 stars today)
 
 ---
 
-## HKUDS/DeepTutor
+## spotify/portal-ai-plugins
 
 **Source:** github_trending
-**URL:** https://github.com/HKUDS/DeepTutor
-**Published:** 2026-10-30 20:04:44.707314
+**URL:** https://github.com/spotify/portal-ai-plugins
+**Published:** 2026-11-04 10:15:23.861134
 **Score:** 0
 
-DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. (⭐ 2,282 stars today)
+ (⭐ 91 stars today)
 
 ---
 
-## anthropics/skills
+## floci-io/floci
 
 **Source:** github_trending
-**URL:** https://github.com/anthropics/skills
-**Published:** 2026-10-30 20:04:44.707527
+**URL:** https://github.com/floci-io/floci
+**Published:** 2026-11-04 10:15:23.861619
 **Score:** 0
 
-Public repository for Agent Skills (⭐ 287 stars today)
+Light, fluffy, and always free - The AWS Local Emulator alternative (⭐ 482 stars today)
 
 ---
 
-## JetBrains/thinkrail
+## Usagi-org/ai-goofish-monitor
 
 **Source:** github_trending
-**URL:** https://github.com/JetBrains/thinkrail
-**Published:** 2026-10-30 20:04:44.707745
+**URL:** https://github.com/Usagi-org/ai-goofish-monitor
+**Published:** 2026-11-04 10:15:23.862023
 **Score:** 0
 
-Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need (⭐ 717 stars today)
+基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 (⭐ 228 stars today)
 
 ---
 
-## togg53192-cmd/jailbreaks
+## anomalyco/hex
 
 **Source:** github_trending
-**URL:** https://github.com/togg53192-cmd/jailbreaks
-**Published:** 2026-10-30 20:04:44.707939
+**URL:** https://github.com/anomalyco/hex
+**Published:** 2026-11-04 10:15:23.862513
 **Score:** 0
 
-LIST OF ALL MY JAILBREAKS (⭐ 2,053 stars today)
+Local voice dictation for mac, windows and linux (⭐ 410 stars today)
 
 ---
 
-## obra/superpowers
+## D4Vinci/Scrapling
 
 **Source:** github_trending
-**URL:** https://github.com/obra/superpowers
-**Published:** 2026-10-30 20:04:44.708201
+**URL:** https://github.com/D4Vinci/Scrapling
+**Published:** 2026-11-04 10:15:23.863019
 **Score:** 0
 
-An agentic skills framework & software development methodology that works. (⭐ 1,255 stars today)
+🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev (⭐ 1,658 stars today)
 
 ---
 
-## lightpanda-io/browser
+## shiyu-coder/Kronos
 
 **Source:** github_trending
-**URL:** https://github.com/lightpanda-io/browser
-**Published:** 2026-10-30 20:04:44.708410
+**URL:** https://github.com/shiyu-coder/Kronos
+**Published:** 2026-11-04 10:15:23.863405
 **Score:** 0
 
-Lightpanda: the headless browser designed for AI and automation (⭐ 559 stars today)
+Kronos: A Foundation Model for the Language of Financial Markets (⭐ 503 stars today)
+
+---
+
+## Donchitos/Claude-Code-Game-Studios
+
+**Source:** github_trending
+**URL:** https://github.com/Donchitos/Claude-Code-Game-Studios
+**Published:** 2026-11-04 10:15:23.863877
+**Score:** 0
+
+Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. (⭐ 1,182 stars today)
 
 ---
 

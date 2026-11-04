@@ -2,7 +2,7 @@
 
 import asyncio
 from datetime import datetime
-from typing import List,Optional
+from typing import List, Optional
 
 import feedparser
 from dateutil import parser as date_parser
@@ -20,6 +20,7 @@ class RSSFetcher(BaseFetcher):
 
     Uses feedparser library for RSS parsing.
     """
+
     def __init__(
         self,
         feed_url: str,
@@ -29,13 +30,11 @@ class RSSFetcher(BaseFetcher):
         super().__init__(transformer, storage)
         self.feed_url = feed_url
 
-
-
     async def fetch_articles(self) -> List[Article]:
         """Fetch from RSS feed."""
         feed = feedparser.parse(self.feed_url)
         return self.transformer.transform_rss(feed.entries)
-    
+
     def get_source_name(self) -> str:
         """Return source name."""
         return "rss"
