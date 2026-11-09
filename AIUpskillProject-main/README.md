@@ -150,11 +150,10 @@ MIT
 
 ---
 
-### **Step 2: Architecture Documentation (45 min)**
+### **Architecture Documentation **
 
 **File:** `docs/architecture.md`
 
-```markdown
 # Architecture Documentation
 
 ## System Overview
