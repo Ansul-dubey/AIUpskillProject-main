@@ -3,15 +3,14 @@
 import asyncio
 from typing import List
 
-from src.fetchers.hackernews_fetcher import HackerNewsFetcher
+from src.fetchers.base_fetcher import BaseFetcher
 from src.fetchers.github_trending_fetcher import GitHubTrendingFetcher
+from src.fetchers.hackernews_fetcher import HackerNewsFetcher
 from src.fetchers.rss_fetcher import RSSFetcher
 from src.models.article import Article
+from src.storage.base_storage import ArticleStorage
 from src.storage.markdown_storage import MarkdownStorage
 from src.transformers.article_transformer import ArticleTransformer
-from src.fetchers.base_fetcher import BaseFetcher
-from src.transformers.article_transformer import ArticleTransformer
-from src.storage.base_storage import ArticleStorage
 
 
 class FetchOrchestrator:

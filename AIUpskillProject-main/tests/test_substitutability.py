@@ -1,12 +1,13 @@
 """Test Liskov Substitution Principle."""
 
 import pytest
+
+from src.fetchers.base_fetcher import BaseFetcher
+from src.fetchers.github_trending_fetcher import GitHubTrendingFetcher
 from src.fetchers.hackernews_fetcher import HackerNewsFetcher
 from src.fetchers.rss_fetcher import RSSFetcher
-from src.fetchers.github_trending_fetcher import GitHubTrendingFetcher
-from src.transformers.article_transformer import ArticleTransformer
 from src.storage.markdown_storage import MarkdownStorage
-from src.fetchers.base_fetcher import BaseFetcher
+from src.transformers.article_transformer import ArticleTransformer
 
 
 @pytest.mark.asyncio

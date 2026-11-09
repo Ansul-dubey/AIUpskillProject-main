@@ -1,7 +1,8 @@
 # Quick test
-from src.storage.markdown_storage import MarkdownStorage
-from src.models.article import Article
 from datetime import datetime
+
+from src.models.article import Article
+from src.storage.markdown_storage import MarkdownStorage
 
 storage = MarkdownStorage("data/test_articles")
 test_article = Article(

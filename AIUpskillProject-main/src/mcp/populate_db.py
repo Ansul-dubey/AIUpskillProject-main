@@ -1,9 +1,10 @@
 # populate_db.py
 import asyncio
-from src.database.db_manager import DatabaseManager
-from pathlib import Path
 import re
 from datetime import datetime
+from pathlib import Path
+
+from src.database.db_manager import DatabaseManager
 
 
 async def populate_from_markdown():

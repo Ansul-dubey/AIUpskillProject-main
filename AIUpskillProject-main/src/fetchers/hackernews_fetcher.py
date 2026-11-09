@@ -1,16 +1,17 @@
 """Fetch top stories from HackerNews."""
 
 import asyncio
+import logging
 from typing import Dict, List, Optional
 
 import aiohttp
 
-from src.models.article import Article
 from src.fetchers.base_fetcher import BaseFetcher
+from src.models.article import Article
 from src.storage.base_storage import ArticleStorage
+from src.strategies.rate_limit_strategy import (RateLimitStrategy,
+                                                SemaphoreStrategy)
 from src.transformers.article_transformer import ArticleTransformer
-from src.strategies.rate_limit_strategy import RateLimitStrategy, SemaphoreStrategy
-import logging
 
 logger = logging.getLogger(__name__)
 

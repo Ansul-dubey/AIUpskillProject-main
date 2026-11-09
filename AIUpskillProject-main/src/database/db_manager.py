@@ -1,11 +1,12 @@
 """SQLite database manager for articles."""
 
 import sqlite3
-import aiosqlite
-from pathlib import Path
-from typing import List, Dict
-from datetime import datetime
 import sys
+from datetime import datetime
+from pathlib import Path
+from typing import Dict, List
+
+import aiosqlite
 
 
 class DatabaseManager:

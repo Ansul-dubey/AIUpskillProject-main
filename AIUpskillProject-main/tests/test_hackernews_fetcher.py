@@ -1,9 +1,10 @@
 # tests/test_hackernews_fetcher.py
 
 import pytest
+
 from src.fetchers.hackernews_fetcher import HackerNewsFetcher
-from src.transformers.article_transformer import ArticleTransformer
 from src.storage.markdown_storage import MarkdownStorage
+from src.transformers.article_transformer import ArticleTransformer
 
 
 @pytest.mark.asyncio

@@ -1,10 +1,11 @@
 """News filter agent with tool use."""
 
-from src.agents.news_filter_agent import NewsFilterAgent
-from src.tools.calculator import calculator, CALCULATOR_SCHEMA
-from src.tools.web_search import web_search, WEB_SEARCH_SCHEMA
-from typing import Dict
 import json
+from typing import Dict
+
+from src.agents.news_filter_agent import NewsFilterAgent
+from src.tools.calculator import CALCULATOR_SCHEMA, calculator
+from src.tools.web_search import WEB_SEARCH_SCHEMA, web_search
 
 
 class EnhancedFilterAgent(NewsFilterAgent):

@@ -1,12 +1,14 @@
 """Fetch from GitHub Trending."""
 
-from src.fetchers.base_fetcher import BaseFetcher
+import logging
+from datetime import datetime
 from typing import List
+
 import aiohttp
 from bs4 import BeautifulSoup
-from datetime import datetime
+
+from src.fetchers.base_fetcher import BaseFetcher
 from src.models.article import Article
-import logging
 
 logger = logging.getLogger(__name__)
 

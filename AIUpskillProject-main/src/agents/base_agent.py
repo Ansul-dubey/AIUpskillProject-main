@@ -1,9 +1,10 @@
 """Base class for AI agents."""
 
-import os
 import json
+import os
 from abc import ABC, abstractmethod
-from typing import Callable, Any, Dict, Optional, List
+from typing import Any, Callable, Dict, List, Optional
+
 from dotenv import load_dotenv
 from litellm import completion
 

@@ -2,12 +2,13 @@
 
 import asyncio
 from pathlib import Path
-from src.orchestrator import FetchOrchestrator
+
 from src.agents.news_filter_agent import NewsFilterAgent
 from src.agents.summarizer_agent import SummarizerAgent
 from src.agents.writer_agent import WriterAgent
 from src.database.db_manager import DatabaseManager
 from src.main import build_orchestrator
+from src.orchestrator import FetchOrchestrator
 
 
 async def run_complete_pipeline():

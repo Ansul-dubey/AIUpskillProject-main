@@ -1,7 +1,7 @@
 # Quick test
 from src.fetchers.github_trending_fetcher import GitHubTrendingFetcher
-from src.transformers.article_transformer import ArticleTransformer
 from src.storage.markdown_storage import MarkdownStorage
+from src.transformers.article_transformer import ArticleTransformer
 
 
 async def test_github():

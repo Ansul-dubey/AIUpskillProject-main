@@ -7,10 +7,10 @@ from typing import List, Optional
 import feedparser
 from dateutil import parser as date_parser
 
-from src.models.article import Article
-from src.storage.markdown_storage import MarkdownStorage
 from src.fetchers.base_fetcher import BaseFetcher
+from src.models.article import Article
 from src.storage.base_storage import ArticleStorage
+from src.storage.markdown_storage import MarkdownStorage
 from src.transformers.article_transformer import ArticleTransformer
 
 

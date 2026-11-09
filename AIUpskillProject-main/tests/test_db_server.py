@@ -1,9 +1,10 @@
 """Test database MCP server."""
 
 import asyncio
-import sys
 import os
+import sys
 from pathlib import Path
+
 from mcp import ClientSession, StdioServerParameters
 from mcp.client.stdio import stdio_client
 

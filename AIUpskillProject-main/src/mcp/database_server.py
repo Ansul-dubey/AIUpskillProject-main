@@ -1,18 +1,19 @@
 """Database MCP server - provides tools to query article database."""
 
 import asyncio
-from pathlib import Path
 import sys
+from pathlib import Path
 
 if __package__ in (None, ""):
     project_root = Path(__file__).resolve().parents[2]
     sys.path.insert(0, str(project_root))
 
+import json
+
 from mcp.server import Server
 from mcp.server.stdio import stdio_server
-from mcp.types import Tool, TextContent
+from mcp.types import TextContent, Tool
 from src.database.db_manager import DatabaseManager
-import json
 
 # Create server
 server = Server("database-server")

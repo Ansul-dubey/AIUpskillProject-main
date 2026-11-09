@@ -1,9 +1,10 @@
 """Complete pipeline: Fetch -> Filter."""
 
 import asyncio
-from src.main import build_orchestrator
-from src.agents.news_filter_agent import NewsFilterAgent
 from pathlib import Path
+
+from src.agents.news_filter_agent import NewsFilterAgent
+from src.main import build_orchestrator
 
 
 async def run_pipeline():

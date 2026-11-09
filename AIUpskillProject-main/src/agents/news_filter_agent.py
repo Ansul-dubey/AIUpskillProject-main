@@ -1,11 +1,12 @@
 """Agent that filters AI-relevant articles."""
 
 import json
-from typing import Any, Dict, Optional, List
+import re
 from pathlib import Path
+from typing import Any, Dict, List, Optional
+
 from src.agents.base_agent import BaseAgent
 from src.models.article import Article
-import re
 
 
 class NewsFilterAgent(BaseAgent):
