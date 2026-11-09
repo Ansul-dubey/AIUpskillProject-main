@@ -36,7 +36,7 @@ React alternative for web development.
 
         # Check output
         assert output_file.exists()
-        content = output_file.read_text()
+        content = output_file.read_text(encoding="utf-8")
 
         # Should include GPT-4
         assert "GPT-4" in content

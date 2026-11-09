@@ -6,18 +6,23 @@ from src.fetchers.rss_fetcher import RSSFetcher
 from src.transformers.article_transformer import ArticleTransformer
 from src.storage.markdown_storage import MarkdownStorage
 
+
 @pytest.mark.asyncio
 async def test_both_fetchers():
     """Test both fetchers work."""
     # HackerNews
     transformer = ArticleTransformer()
     storage = MarkdownStorage("data/test")
-    hn = HackerNewsFetcher(transformer,storage)
+    hn = HackerNewsFetcher(transformer, storage)
     hn_articles = await hn.fetch(limit=5)
     assert len(hn_articles) > 0
 
     # RSS
-    rss = RSSFetcher("https://hnrss.org/frontpage",transformer,storage,)
+    rss = RSSFetcher(
+        "https://hnrss.org/frontpage",
+        transformer,
+        storage,
+    )
     rss_articles = await rss.fetch()
     assert len(rss_articles) > 0
 
@@ -30,11 +35,19 @@ async def test_concurrent_fetching():
     """Test fetching from both sources concurrently."""
     import asyncio
     import time
+
     transformer = ArticleTransformer()
     storage = MarkdownStorage("data/test")
 
-    hn = HackerNewsFetcher(transformer,storage,)
-    rss = RSSFetcher("https://hnrss.org/frontpage",transformer,storage,)
+    hn = HackerNewsFetcher(
+        transformer,
+        storage,
+    )
+    rss = RSSFetcher(
+        "https://hnrss.org/frontpage",
+        transformer,
+        storage,
+    )
 
     start = time.time()
 

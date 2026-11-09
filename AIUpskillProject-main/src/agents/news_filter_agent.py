@@ -197,7 +197,7 @@ Your JSON response:"""
 
         articles = result["filtered_articles"]
 
-        with open(output_path, "w") as f:
+        with open(output_path, "w", encoding="utf-8") as f:
             f.write(f"# Filtered AI/ML Articles\n\n")
             f.write(f"**Total Input:** {result['total_input']}\n")
             f.write(f"**Total Output:** {result['total_output']}\n")

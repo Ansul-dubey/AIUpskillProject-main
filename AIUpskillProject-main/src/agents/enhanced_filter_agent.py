@@ -6,6 +6,7 @@ from src.tools.web_search import web_search, WEB_SEARCH_SCHEMA
 from typing import Dict
 import json
 
+
 class EnhancedFilterAgent(NewsFilterAgent):
     """
     Filter agent that can use tools.

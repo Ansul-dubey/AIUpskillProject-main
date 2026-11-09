@@ -1,238 +1,241 @@
-# Articles - 2026-11-04 09:11
+# Articles - 2026-11-09 10:55
 
-## Arrows to arrows, categories to queries (2025)
+## A Critique of GPUI
 
 **Source:** rss
-**URL:** https://reasonablypolymorphic.com/blog/arrows-to-arrows/
-**Published:** 2026-11-04 03:11:27+00:00
+**URL:** https://blog.zortax.de/posts/a-critique-of-gpui
+**Published:** 2026-11-09 03:51:10+00:00
 **Score:** 0
 
-<p>Article URL: <a href="https://reasonablypolymorphic.com/blog/arrows-to-arrows/">https://reasonablypolymorphic.com/blog/arrows-to-arrows/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.c
+<p>Article URL: <a href="https://blog.zortax.de/posts/a-critique-of-gpui">https://blog.zortax.de/posts/a-critique-of-gpui</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5042085
 
 ---
 
-## Giant canyon on Mars is still tectonically active
+## The Qlobe: Rotating Quine (2010)
 
 **Source:** rss
-**URL:** https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today
-**Published:** 2026-11-04 01:40:42+00:00
+**URL:** http://mamememo.blogspot.com/2010/09/qlobe.html
+**Published:** 2026-11-09 03:15:17+00:00
 **Score:** 0
 
-<p>Article URL: <a href="https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today">https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today</a></p>
-
+<p>Article URL: <a href="http://mamememo.blogspot.com/2010/09/qlobe.html">http://mamememo.blogspot.com/2010/09/qlobe.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5042059
 
 ---
 
-## C++26 Disapproved
+## A Bit about Email
 
 **Source:** rss
-**URL:** https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/
-**Published:** 2026-11-04 00:33:22+00:00
+**URL:** https://maurycyz.com/misc/email/
+**Published:** 2026-11-09 02:46:21+00:00
 **Score:** 0
 
-<p>Article URL: <a href="https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/">https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/</a></p>
-<p>Comment
+<p>Article URL: <a href="https://maurycyz.com/misc/email/">https://maurycyz.com/misc/email/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50420383">https://news.ycombinator.co
 
 ---
 
-## The Internals of PostgreSQL
+## RIP, Harvest
 
 **Source:** rss
-**URL:** https://www.interdb.jp/pg/index.html
-**Published:** 2026-11-03 21:51:06+00:00
+**URL:** https://aphyr.com/posts/427-rip-harvest
+**Published:** 2026-11-09 01:58:21+00:00
 **Score:** 0
 
-<p>Article URL: <a href="https://www.interdb.jp/pg/index.html">https://www.interdb.jp/pg/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358702">https://news.ycombi
+<p>Article URL: <a href="https://aphyr.com/posts/427-rip-harvest">https://aphyr.com/posts/427-rip-harvest</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50420035">https://news.
 
 ---
 
-## The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer
+## Unlocking any car from X brand in most of the world
 
 **Source:** rss
-**URL:** https://arxiv.org/abs/2605.29713
-**Published:** 2026-11-03 21:40:53+00:00
+**URL:** https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/
+**Published:** 2026-11-09 00:10:50+00:00
 **Score:** 0
 
-<p>Article URL: <a href="https://arxiv.org/abs/2605.29713">https://arxiv.org/abs/2605.29713</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358582">https://news.ycombinator.co
+<p>Article URL: <a href="https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/">https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/</a></p>
+<p>Comments URL: <a href="
 
 ---
 
-## Safari introduces Adaptive Dark Mode in 27.3
+## I'm not convinced the AI bubble exists
 
 **Source:** rss
-**URL:** https://webkit.org/blog/18541/introducing-adaptive-dark-mode/
-**Published:** 2026-11-03 21:39:05+00:00
+**URL:** https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists
+**Published:** 2026-11-08 23:44:36+00:00
 **Score:** 0
 
-<p>Article URL: <a href="https://webkit.org/blog/18541/introducing-adaptive-dark-mode/">https://webkit.org/blog/18541/introducing-adaptive-dark-mode/</a></p>
-<p>Comments URL: <a href="https://news.yco
+<p>Article URL: <a href="https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists">https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exis
 
 ---
 
-## Show HN: Uncracked City, detective game where you question LLM suspects that lie
+## When a language's creator and its owners strongly disagree [pdf]
 
 **Source:** rss
-**URL:** https://uncracked.city
-**Published:** 2026-11-03 21:20:03+00:00
+**URL:** https://isocpp.org/files/papers/P4454R0.pdf
+**Published:** 2026-11-08 23:28:01+00:00
 **Score:** 0
 
-<p>To give you some context on the project. I'm a solo founder and I use AI heavily in my work. The idea came from wanting players to discover cities. Each city has its own history, so every case is s
+<p>Article URL: <a href="https://isocpp.org/files/papers/P4454R0.pdf">https://isocpp.org/files/papers/P4454R0.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50418818">https
 
 ---
 
-## Show HN: Kairos – Open-source risk and fraud decisioning platform
+## Chimera Vocal Synth
 
 **Source:** rss
-**URL:** https://github.com/finic-ai/kairos
-**Published:** 2026-11-03 21:16:48+00:00
+**URL:** https://chimera-vocal-synth.vercel.app/
+**Published:** 2026-11-08 22:36:03+00:00
 **Score:** 0
 
-<p>Hey HN, Ayan here from Finic. We’re launching Kairos, an open source alternative to Sift, Sardine, and other real-time fraud decisioning platforms. Kairos addresses two of the biggest problems faci
+<p>Article URL: <a href="https://chimera-vocal-synth.vercel.app/">https://chimera-vocal-synth.vercel.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50418182">https://news.
 
 ---
 
-## The Pnyx and the Agora (2016)
+## KetchUp – Open-source SketchUp alternative built with Rust and WebGPU
 
 **Source:** rss
-**URL:** https://www.readingdesign.org/the-pnyx-and-the-agora
-**Published:** 2026-11-03 20:49:11+00:00
+**URL:** https://ketchup3d.github.io/app/
+**Published:** 2026-11-08 22:35:35+00:00
 **Score:** 0
 
-<p>Article URL: <a href="https://www.readingdesign.org/the-pnyx-and-the-agora">https://www.readingdesign.org/the-pnyx-and-the-agora</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?
+<p>Article URL: <a href="https://ketchup3d.github.io/app/">https://ketchup3d.github.io/app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50418176">https://news.ycombinator.co
 
 ---
 
-## Pratt parsing is a black box
+## Nvidia CEO Jensen Huang's letter to staff about affair
 
 **Source:** rss
-**URL:** https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/
-**Published:** 2026-11-03 20:07:41+00:00
+**URL:** https://nvidianews.nvidia.com/news/a-message-to-our-company
+**Published:** 2026-11-08 22:20:09+00:00
 **Score:** 0
 
-<p>Article URL: <a href="https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/">https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/</a></p>
-<p>Comments URL: <a 
+<p><a href="https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company" rel="nofollow">https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-aff...</a>, <a href="https://archi
 
 ---
 
-## Introduction to Programming in ATS
+## Ask HN: What are you working on? (November 2026)
 
 **Source:** rss
-**URL:** https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html
-**Published:** 2026-11-03 19:25:18+00:00
+**URL:** https://news.ycombinator.com/item?id=50417407
+**Published:** 2026-11-08 21:20:20+00:00
 **Score:** 0
 
-<p>Article URL: <a href="https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html">https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html</a></p>
-<p>Comments URL: <a hr
+<p>What are you working on? What have you been curious about lately?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50417407">https://news.ycombinator.com/item?id=50417407</
 
 ---
 
-## How I use AI (Oct 2026)
+## The Web Is More Than Enough, by Paul Ford
 
 **Source:** rss
-**URL:** https://ben.stolovitz.com/posts/how-use-ai-oct-2026/
-**Published:** 2026-11-03 18:11:11+00:00
+**URL:** https://ftrain.com/aboard-the-web-is-more-than-enough
+**Published:** 2026-11-08 19:48:32+00:00
 **Score:** 0
 
-<p>Article URL: <a href="https://ben.stolovitz.com/posts/how-use-ai-oct-2026/">https://ben.stolovitz.com/posts/how-use-ai-oct-2026/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?
+<p>Article URL: <a href="https://ftrain.com/aboard-the-web-is-more-than-enough">https://ftrain.com/aboard-the-web-is-more-than-enough</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite
 
 ---
 
-## Qwen 3.8 27B on my laptop can interpret model weights, too
+## How I Fight AI Brain Fry
 
 **Source:** rss
-**URL:** https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/
-**Published:** 2026-11-03 17:40:00+00:00
+**URL:** https://sergeykuhne.com/blog/fighting-ai-brain-fry
+**Published:** 2026-11-08 19:37:42+00:00
 **Score:** 0
 
-<p>Article URL: <a href="https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/">https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/</a></p>
+<p>Article URL: <a href="https://sergeykuhne.com/blog/fighting-ai-brain-fry">https://sergeykuhne.com/blog/fighting-ai-brain-fry</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=5
+
+---
+
+## Outlook.com is rejecting email from domains without DMARC
+
+**Source:** rss
+**URL:** https://mailroute.net/blog/outlook-rejecting-email-without-dmarc
+**Published:** 2026-11-08 19:20:32+00:00
+**Score:** 0
+
+<p>Article URL: <a href="https://mailroute.net/blog/outlook-rejecting-email-without-dmarc">https://mailroute.net/blog/outlook-rejecting-email-without-dmarc</a></p>
+<p>Comments URL: <a href="https://ne
+
+---
+
+## Dux: Free, open-source Wayland desktop shell with file manager and theming
+
+**Source:** rss
+**URL:** https://duxlabs.dev/
+**Published:** 2026-11-08 19:08:51+00:00
+**Score:** 0
+
+<p>Article URL: <a href="https://duxlabs.dev/">https://duxlabs.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50416053">https://news.ycombinator.com/item?id=50416053</a></
+
+---
+
+## Playing with the STM32MP2
+
+**Source:** rss
+**URL:** https://serd.es/2026/11/08/playing-with-stm32mp2.html
+**Published:** 2026-11-08 19:04:07+00:00
+**Score:** 0
+
+<p>Article URL: <a href="https://serd.es/2026/11/08/playing-with-stm32mp2.html">https://serd.es/2026/11/08/playing-with-stm32mp2.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/ite
+
+---
+
+## Goldman Sachs is pulling Claude Code from its bankers and traders
+
+**Source:** rss
+**URL:** https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers
+**Published:** 2026-11-08 18:16:07+00:00
+**Score:** 0
+
+<p>Article URL: <a href="https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers">https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</a></p>
+<p>Comments UR
+
+---
+
+## I'm not a fan of Deno's security model (2024)
+
+**Source:** rss
+**URL:** https://goldstein.lol/posts/deno-security/
+**Published:** 2026-11-08 14:42:38+00:00
+**Score:** 0
+
+<p>Article URL: <a href="https://goldstein.lol/posts/deno-security/">https://goldstein.lol/posts/deno-security/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50413769">https:/
+
+---
+
+## JIT bitmap text rendering for microcontrollers
+
+**Source:** rss
+**URL:** https://linebender.org/blog/jit-bitmap-text/
+**Published:** 2026-11-08 10:42:15+00:00
+**Score:** 0
+
+<p>Article URL: <a href="https://linebender.org/blog/jit-bitmap-text/">https://linebender.org/blog/jit-bitmap-text/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50412072">htt
+
+---
+
+## Writing as a thinking tool
+
+**Source:** rss
+**URL:** http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html
+**Published:** 2026-11-08 10:41:52+00:00
+**Score:** 0
+
+<p>Article URL: <a href="http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html">http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html</a></p>
 <p>Comments URL: <a href
-
----
-
-## Postman silently auto-installs AI plugins and attempts to share all API data
-
-**Source:** rss
-**URL:** https://github.com/postmanlabs/postman-app-support/issues/14370
-**Published:** 2026-11-03 17:22:37+00:00
-**Score:** 0
-
-<p>Article URL: <a href="https://github.com/postmanlabs/postman-app-support/issues/14370">https://github.com/postmanlabs/postman-app-support/issues/14370</a></p>
-<p>Comments URL: <a href="https://news
-
----
-
-## Ashby (YC W19) Is Hiring EMs
-
-**Source:** rss
-**URL:** https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn
-**Published:** 2026-11-03 17:00:53+00:00
-**Score:** 0
-
-<p>Article URL: <a href="https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&amp;utm_source=hn">https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd2
-
----
-
-## Stringman, an $800 open-source room scale gripper robot
-
-**Source:** rss
-**URL:** https://neufangled.com/
-**Published:** 2026-11-03 16:47:29+00:00
-**Score:** 0
-
-<p>Article URL: <a href="https://neufangled.com/">https://neufangled.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50354358">https://news.ycombinator.com/item?id=50354358
-
----
-
-## Mac at any scale
-
-**Source:** rss
-**URL:** https://namespace.so/blog/mac-at-any-scale
-**Published:** 2026-11-03 14:53:42+00:00
-**Score:** 0
-
-<p>Article URL: <a href="https://namespace.so/blog/mac-at-any-scale">https://namespace.so/blog/mac-at-any-scale</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50352758">https:/
-
----
-
-## There is no posttraining data commons
-
-**Source:** rss
-**URL:** https://openathena.ai/blog/there-is-no-posttraining-data-commons/
-**Published:** 2026-11-03 14:45:47+00:00
-**Score:** 0
-
-<p>Article URL: <a href="https://openathena.ai/blog/there-is-no-posttraining-data-commons/">https://openathena.ai/blog/there-is-no-posttraining-data-commons/</a></p>
-<p>Comments URL: <a href="https://
-
----
-
-## Microsoft fixes a Windows 11 annoyance as PC revenue declines
-
-**Source:** rss
-**URL:** https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/
-**Published:** 2026-11-03 12:58:43+00:00
-**Score:** 0
-
-<p>Article URL: <a href="https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/">https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-clic
-
----
-
-## Why Clip Art Was Everywhere Until It Wasn't [video]
-
-**Source:** rss
-**URL:** https://www.youtube.com/watch?v=XfLlpxE6AYM
-**Published:** 2026-11-03 12:40:06+00:00
-**Score:** 0
-
-<p>Article URL: <a href="https://www.youtube.com/watch?v=XfLlpxE6AYM">https://www.youtube.com/watch?v=XfLlpxE6AYM</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50351298">https
 
 ---
 

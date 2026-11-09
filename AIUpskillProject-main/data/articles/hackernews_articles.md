@@ -1,330 +1,308 @@
-# Articles - 2026-10-29 18:49
+# Articles - 2026-11-09 10:55
 
-## Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5
+## RIP, Harvest
 
 **Source:** hackernews
-**URL:** https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1
-**Published:** 2026-10-29 18:11:56
-**Score:** 17
+**URL:** https://aphyr.com/posts/427-rip-harvest
+**Published:** 2026-11-09 07:28:21
+**Score:** 190
 
 
 
 ---
 
-## Google determines the names for bodies of water in Google Earth (2008)
+## A Critique of GPUI
 
 **Source:** hackernews
-**URL:** https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html
-**Published:** 2026-10-29 17:11:18
-**Score:** 49
+**URL:** https://blog.zortax.de/posts/a-critique-of-gpui
+**Published:** 2026-11-09 09:21:10
+**Score:** 33
 
 
 
 ---
 
-## DoorDash to Acquire Instacart
+## KetchUp – Open-source SketchUp alternative built with Rust and WebGPU
 
 **Source:** hackernews
-**URL:** https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx
-**Published:** 2026-10-29 18:03:05
-**Score:** 43
+**URL:** https://ketchup3d.github.io/app/
+**Published:** 2026-11-09 04:05:35
+**Score:** 334
 
 
 
 ---
 
-## If IPv4 Were Land
+## Unlocking any car from X brand in most of the world
 
 **Source:** hackernews
-**URL:** https://iptrust.co/blog/if-ipv4-were-land
-**Published:** 2026-10-29 17:49:00
-**Score:** 88
-
-
-
----
-
-## NetBSD adds a new beginner-friendly text editor called atto
-
-**Source:** hackernews
-**URL:** https://mastodon.sdf.org/@netbsd/117518160563539748
-**Published:** 2026-10-29 17:29:01
-**Score:** 25
-
-
-
----
-
-## Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5
-
-**Source:** hackernews
-**URL:** https://divagr.com/blog/qwenputer
-**Published:** 2026-10-29 05:55:45
-**Score:** 578
-
-
-
----
-
-## Why is this fingerprinting script creating bioweapons?
-
-**Source:** hackernews
-**URL:** https://nullpt.rs/fingerprinting-bioweapons
-**Published:** 2026-10-28 22:43:29
-**Score:** 1380
-
-
-
----
-
-## The US added a record 20.2 GWh of battery storage in just 3 months
-
-**Source:** hackernews
-**URL:** https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/
-**Published:** 2026-10-29 16:14:49
-**Score:** 112
-
-
-
----
-
-## Getting debug access on a Brother printer over Telnet
-
-**Source:** hackernews
-**URL:** https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/
-**Published:** 2026-10-26 19:24:39
-**Score:** 98
-
-
-
----
-
-## Zero click, silent, remote Android DoS
-
-**Source:** hackernews
-**URL:** https://smsofdeath.com/
-**Published:** 2026-10-29 12:38:50
+**URL:** https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/
+**Published:** 2026-11-09 05:40:50
 **Score:** 175
 
 
 
 ---
 
-## Show HN: UK Farming Simulator
+## Chimera Vocal Synth
 
 **Source:** hackernews
-**URL:** https://butterbean.farm/
-**Published:** 2026-10-29 16:45:59
-**Score:** 18
+**URL:** https://chimera-vocal-synth.vercel.app/
+**Published:** 2026-11-09 04:06:03
+**Score:** 150
 
 
 
 ---
 
-## Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers
+## I'm not convinced the AI bubble exists
 
 **Source:** hackernews
-**URL:** https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers
-**Published:** 2026-10-29 16:12:41
-**Score:** 19
+**URL:** https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists
+**Published:** 2026-11-09 05:14:36
+**Score:** 117
 
 
 
 ---
 
-## Hackers expose the identities of more than 40k DHS employees
+## Outlook.com is rejecting email from domains without DMARC
 
 **Source:** hackernews
-**URL:** https://text.npr.org/nx-s1-6021497
-**Published:** 2026-10-29 18:01:09
-**Score:** 43
+**URL:** https://mailroute.net/blog/outlook-rejecting-email-without-dmarc
+**Published:** 2026-11-09 00:50:32
+**Score:** 324
 
 
 
 ---
 
-## Forging a Microsoft Edge Full Chain with Logic Bugs Only
+## Declarative Dragging
 
 **Source:** hackernews
-**URL:** https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/
-**Published:** 2026-10-29 12:17:28
-**Score:** 140
+**URL:** https://declarative-dragging.github.io/
+**Published:** 2026-11-04 22:35:07
+**Score:** 440
 
 
 
 ---
 
-## I Used AI to Fake a Scientific Paper. Here's What Happened
+## Dux: Free, open-source Wayland desktop shell with file manager and theming
 
 **Source:** hackernews
-**URL:** https://spectrum.ieee.org/ai-generated-scientific-papers
-**Published:** 2026-10-29 15:38:04
-**Score:** 14
+**URL:** https://duxlabs.dev/
+**Published:** 2026-11-09 00:38:51
+**Score:** 232
 
 
 
 ---
 
-## MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark
+## Nvidia CEO Jensen Huang's letter to staff about affair
 
 **Source:** hackernews
-**URL:** https://dmux.github.io/minilake/
-**Published:** 2026-10-27 19:42:59
-**Score:** 52
+**URL:** https://nvidianews.nvidia.com/news/a-message-to-our-company
+**Published:** 2026-11-09 03:50:09
+**Score:** 461
+
+<a href="https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;11&#x2F;08&#x2F;nvidia-ceo-jensen-huang-affair-email-to-company" rel="nofollow">https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;11&#x2F;08&#x2F;n
+
+---
+
+## The Qlobe: Rotating Quine (2010)
+
+**Source:** hackernews
+**URL:** http://mamememo.blogspot.com/2010/09/qlobe.html
+**Published:** 2026-11-09 08:45:17
+**Score:** 12
 
 
 
 ---
 
-## Requests, Please
+## Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB
 
 **Source:** hackernews
-**URL:** https://morronel.github.io/requests_please/
-**Published:** 2026-10-26 14:53:43
-**Score:** 42
+**URL:** https://github.com/rkaehn/uniform
+**Published:** 2026-11-07 10:46:31
+**Score:** 15
+
+Over the past year, I have been working to find a better way to write cross-platform apps.<p>The problems I am trying to solve:<p>- Native frameworks only work on a subset of platforms, so a different
+
+---
+
+## Branching Beyond Leonardo: The Evolution of Tree Architecture Theory
+
+**Source:** hackernews
+**URL:** https://blue-continuum.com/branching-beyond-leonardo
+**Published:** 2026-11-06 16:31:12
+**Score:** 8
 
 
 
 ---
 
-## Southern Africa's first known stenciled rock art found hiding in plain sight
+## When a language's creator and its owners strongly disagree [pdf]
 
 **Source:** hackernews
-**URL:** https://phys.org/news/2026-10-southern-africa-stenciled-art-plain.html
-**Published:** 2026-10-27 05:48:58
-**Score:** 10
+**URL:** https://isocpp.org/files/papers/P4454R0.pdf
+**Published:** 2026-11-09 04:58:01
+**Score:** 99
 
 
 
 ---
 
-## StackOverflow now gets fewer than 1000 questions a month
+## Goldman Sachs is pulling Claude Code from its bankers and traders
 
 **Source:** hackernews
-**URL:** https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1
-**Published:** 2026-10-29 05:05:02
-**Score:** 580
+**URL:** https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers
+**Published:** 2026-11-08 23:46:07
+**Score:** 680
 
 
 
 ---
 
-## OpenAI's agents talked to each other through the CPU Cache
+## Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU
 
 **Source:** hackernews
-**URL:** https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/
-**Published:** 2026-10-27 02:54:18
-**Score:** 250
+**URL:** https://github.com/synchopate/llama-modchip
+**Published:** 2026-11-08 15:52:04
+**Score:** 399
 
 
 
 ---
 
-## A Health Update
+## The Web Is More Than Enough, by Paul Ford
 
 **Source:** hackernews
-**URL:** https://furbo.org/2026/10/28/a-health-update/
-**Published:** 2026-10-29 02:43:21
-**Score:** 301
+**URL:** https://ftrain.com/aboard-the-web-is-more-than-enough
+**Published:** 2026-11-09 01:18:32
+**Score:** 103
 
 
 
 ---
 
-## Muhammad Aqeel: Undo for Postgres, without losing the rest of your day
+## A Bit about Email
 
 **Source:** hackernews
-**URL:** https://www.pgedge.com/blog/undo-for-postgres-without-losing-the-rest-of-your-day
-**Published:** 2026-10-27 02:45:57
-**Score:** 19
+**URL:** https://maurycyz.com/misc/email/
+**Published:** 2026-11-09 08:16:21
+**Score:** 13
 
 
 
 ---
 
-## CNC Stone Carving
+## Writing as a thinking tool
 
 **Source:** hackernews
-**URL:** https://carmelitegothic.com/cnc-stone-carving/
-**Published:** 2026-10-28 20:08:22
-**Score:** 493
+**URL:** http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html
+**Published:** 2026-11-08 16:11:52
+**Score:** 311
 
 
 
 ---
 
-## GitLab Security Incident: Attempted Exploitation of CVE-2026-97229
+## Ur-Nammu Founder of the Sumerian Renaissance
 
 **Source:** hackernews
-**URL:** https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html
-**Published:** 2026-10-29 05:15:46
-**Score:** 203
+**URL:** https://www.worldhistory.org/Ur-Nammu/
+**Published:** 2026-11-07 19:05:16
+**Score:** 4
 
 
 
 ---
 
-## A new faster algorithm to compute 64-bit signed floor division
+## Air holes turn silicon wafers into flat UV focusing mirrors for compact optics
 
 **Source:** hackernews
-**URL:** https://www.benjoffe.com/fast-floordiv
-**Published:** 2026-10-27 14:43:12
-**Score:** 106
+**URL:** https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html
+**Published:** 2026-11-07 20:21:40
+**Score:** 38
 
 
 
 ---
 
-## The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand
+## Goodbye Claude, hello Pi
 
 **Source:** hackernews
-**URL:** https://www.circuithub.com/post/unveiling-the-grid
-**Published:** 2026-10-26 18:43:31
-**Score:** 528
+**URL:** https://caleb.software/posts/claude-to-pi.html
+**Published:** 2026-11-08 08:41:48
+**Score:** 721
 
 
 
 ---
 
-## Claude Code regularly sends each background agent’s transcript to its model
+## Playing with the STM32MP2
 
 **Source:** hackernews
-**URL:** https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce
-**Published:** 2026-10-29 09:03:42
-**Score:** 460
+**URL:** https://serd.es/2026/11/08/playing-with-stm32mp2.html
+**Published:** 2026-11-09 00:34:07
+**Score:** 51
 
 
 
 ---
 
-## Gemini 4 Carbon
+## JIT bitmap text rendering for microcontrollers
 
 **Source:** hackernews
-**URL:** https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/
-**Published:** 2026-10-28 22:31:23
-**Score:** 963
+**URL:** https://linebender.org/blog/jit-bitmap-text/
+**Published:** 2026-11-08 16:12:15
+**Score:** 95
 
 
 
 ---
 
-## Why birds can fly over Mount Everest (2020)
+## How I Fight AI Brain Fry
 
 **Source:** hackernews
-**URL:** https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864
-**Published:** 2026-10-24 18:47:59
-**Score:** 203
+**URL:** https://sergeykuhne.com/blog/fighting-ai-brain-fry
+**Published:** 2026-11-09 01:07:42
+**Score:** 193
 
 
 
 ---
 
-## Formlabs Studio 1 $699 Resin Printer
+## Show HN: Vegetable Gardening for Engineers
 
 **Source:** hackernews
-**URL:** https://formlabs.com/products/form-studio-1-basic-founders-edition/
-**Published:** 2026-10-29 02:49:30
-**Score:** 203
+**URL:** https://jrcpl.us/contrib/2020/gardening-for-engineers/
+**Published:** 2026-11-04 14:24:27
+**Score:** 185
+
+
+
+---
+
+## I'm not a fan of Deno's security model (2024)
+
+**Source:** hackernews
+**URL:** https://goldstein.lol/posts/deno-security/
+**Published:** 2026-11-08 20:12:38
+**Score:** 94
+
+
+
+---
+
+## Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files
+
+**Source:** hackernews
+**URL:** https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
+**Published:** 2026-11-08 02:15:32
+**Score:** 598
 
 
 

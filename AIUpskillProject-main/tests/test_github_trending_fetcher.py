@@ -11,8 +11,9 @@ async def test_github():
     fetcher = GitHubTrendingFetcher(transformer, storage)
     articles = await fetcher.fetch_and_save()
 
-    print(f"✅ Fetched {len(articles)} trending repos!")
-    print(f"First: {articles[0].title}")
+    print(f"✅ Fetched- {len(articles)} trending repos!")
+    if articles:
+        print(f"First: {articles[0].title}")
 
 
 # Run it

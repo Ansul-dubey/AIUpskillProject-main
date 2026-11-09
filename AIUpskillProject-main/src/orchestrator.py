@@ -41,7 +41,6 @@ class FetchOrchestrator:
         self.storage = storage
         self.transformer = transformer
 
-
     async def fetch_all(self) -> List[Article]:
         """Fetch from all sources."""
         all_articles = []

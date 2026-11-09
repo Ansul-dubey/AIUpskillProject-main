@@ -44,7 +44,6 @@ class SemaphoreStrategy(RateLimitStrategy):
         self.semaphore.release()
 
 
-
 class TokenBucketStrategy(RateLimitStrategy):
     """
     Token bucket rate limiting.
